@@ -1,0 +1,9 @@
+requests
+google-cloud-datastore
+google-cloud-storage
+newsapi-python
+matplotlib
+pandas
+transformers
+torch
+nltk
